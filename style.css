@@ -20,6 +20,28 @@
     height: 350px;
 }
 
+.height300{
+    height: 300px;
+}
+
 .heigth250{
     height: 250px;
+}
+
+.heigth150{
+    height: 150px;
+}
+
+.heigth50{
+    height: 50px;
+}
+
+.borderdashed{
+    border: dashed 2px red;
+}
+
+.col-1{
+    height: 50px;
+    width: 100px;
+    background-color: red;
 }
