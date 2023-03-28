@@ -36,12 +36,11 @@
     height: 50px;
 }
 
+.heigth30{
+    height: 30px;
+}
+
 .borderdashed{
     border: dashed 2px red;
 }
 
-.col-1{
-    height: 50px;
-    width: 100px;
-    background-color: red;
-}
