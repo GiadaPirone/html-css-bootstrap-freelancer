@@ -40,6 +40,10 @@
     height: 30px;
 }
 
+.heigth5{
+    height: 5px;
+}
+
 .borderdashed{
     border: dashed 2px red;
 }
